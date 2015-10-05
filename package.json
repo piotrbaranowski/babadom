@@ -1,0 +1,20 @@
+{
+  "name": "babadom",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaklinaczekodu/babadom.git"
+  },
+  "author": "Piotr Baranowski <piotr.baranowski@zaklinaczekodu.com> (https://github.com/zaklinaczekodu)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zaklinaczekodu/babadom/issues"
+  },
+  "homepage": "https://github.com/zaklinaczekodu/babadom#readme",
+  "dependencies": {
+    "is-outdated": "1.1.0",
+    "node-schedule": "0.2.9"
+  }
+}
